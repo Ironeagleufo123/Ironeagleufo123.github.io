@@ -6,7 +6,7 @@
       <p><b>E-mail: 1123034978@qq.com </b></p>
     </td>
     <td width="25%">
-      <img src="/照片.png" width="100%">      % 插入证件照代码
+      <img src="/照片.png" width="100%">
     </td>
   </tr>
 </table>
