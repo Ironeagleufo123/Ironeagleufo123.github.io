@@ -11,7 +11,9 @@
   </tr>
 </table>
 
-###Education Background: 
-####September 2012 - July 2016    Beijing Institute of Technology    Detection, Guidance and Control Technology           Bachelor degree 
-####September 2016 - present      Beijing Institute of Technology    Aeronautics and astronautics science and technology  Doctor's degree
+---
+
+### Education Background: 
+- September 2012 - July 2016    Beijing Institute of Technology    Detection, Guidance and Control Technology           Bachelor degree 
+- September 2016 - present      Beijing Institute of Technology    Aeronautics and astronautics science and technology  Doctor's degree
 
