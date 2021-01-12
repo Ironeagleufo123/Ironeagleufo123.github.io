@@ -10,7 +10,7 @@
     </td>
   </tr>
 </table>
-1
+
 ---
 
 ### **Education Background**
