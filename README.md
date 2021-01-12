@@ -26,10 +26,10 @@ Doctor's degree
 
 
 ### EXPERIENCE: 
-- September 2016 - present      
-Key Laboratory of Dynamics and Control of Flight Vehicle
-Tasks:
-Simultaneous Localization and Mapping
-View Geometry
-Quadrotor Dynamics and Control
+- September 2016 - present        
+Key Laboratory of Dynamics and Control of Flight Vehicle  
+Tasks:  
+Simultaneous Localization and Mapping 
+View Geometry 
+Quadrotor Dynamics and Control  
 
