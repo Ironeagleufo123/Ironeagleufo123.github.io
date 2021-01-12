@@ -27,10 +27,10 @@ Doctor's degree
 
 
 ### **RESEARCH INTEREST**
-    - Simultaneous Localization and Mapping  
-    - View Geometry  
-    - Quadrotor Dynamics and Control  
+- Simultaneous Localization and Mapping  
+- View Geometry  
+- Quadrotor Dynamics and Control  
 
-## **PUBLICATIONS**
-    - Zhang, Y.; Yan, D.; Yuan, Y. An object tracking algorithm with embedded gyro information. In Proceedings of Seventh International Conference on Electronics and Information Engineering; p. 103220U.
-    - Lin, W.; Ding, Y.; Wei, H.-L.; Pan, X.; Zhang, Y. LdsConv: Learned Depthwise Separable Convolutions by Group Pruning. Sensors-Basel 2020, 20, 4349.
+### **PUBLICATIONS**
+- Zhang, Y.; Yan, D.; Yuan, Y. An object tracking algorithm with embedded gyro information. In Proceedings of Seventh International Conference on Electronics and Information Engineering; p. 103220U.
+- Lin, W.; Ding, Y.; Wei, H.-L.; Pan, X.; Zhang, Y. LdsConv: Learned Depthwise Separable Convolutions by Group Pruning. Sensors-Basel 2020, 20, 4349.
