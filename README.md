@@ -15,12 +15,21 @@
 
 ### Education Background: 
 - September 2012 - July 2016    
-Beijing Institute of Technology    
+Beijing Institute of Technology    School of Aerospace Engineering
 Detection, Guidance and Control Technology           
 Bachelor degree 
 
 - September 2016 - present      
-Beijing Institute of Technology    
+Beijing Institute of Technology    School of Aerospace Engineering
 Aeronautics and astronautics science and technology  
 Doctor's degree
+
+
+### EXPERIENCE: 
+- September 2016 - present      
+Key Laboratory of Dynamics and Control of Flight Vehicle
+Tasks:
+Simultaneous Localization and Mapping
+View Geometry
+Quadrotor Dynamics and Control
 
