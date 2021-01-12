@@ -29,7 +29,7 @@ Doctor's degree
 - September 2016 - present        
 Key Laboratory of Dynamics and Control of Flight Vehicle  
 Tasks:  
-Simultaneous Localization and Mapping 
-View Geometry 
+Simultaneous Localization and Mapping  
+View Geometry  
 Quadrotor Dynamics and Control  
 
