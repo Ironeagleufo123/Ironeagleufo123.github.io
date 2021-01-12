@@ -15,14 +15,15 @@
 
 ### Education Background: 
 - September 2012 - July 2016    
-Beijing Institute of Technology    School of Aerospace Engineering
+Beijing Institute of Technology    
+School of Aerospace Engineering  
 Detection, Guidance and Control Technology           
-Bachelor degree 
+Bachelor degree  
 
 - September 2016 - present      
-Beijing Institute of Technology    School of Aerospace Engineering
+Beijing Institute of Technology    School of Aerospace Engineering  
 Aeronautics and astronautics science and technology  
-Doctor's degree
+Doctor's degree  
 
 
 ### EXPERIENCE: 
