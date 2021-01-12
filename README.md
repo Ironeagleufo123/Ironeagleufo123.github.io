@@ -11,8 +11,6 @@
   </tr>
 </table>
 
----
-
 ### **Education Background**
 - September 2012 - July 2016    
 Beijing Institute of Technology    
